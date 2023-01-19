@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Sigo Insurance**
 
-- 🌱 I’m currently learning **Python/Django (React Native very soon...)**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.gilbdev.com/](https://www.gilbdev.com/)
 
