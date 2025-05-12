@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.gilbdev.com/](https://www.gilbdev.com/)
+- 👨‍💻 Check my website at [https://www.gilbdev.com/](https://www.gilbdev.com/)
 
 - 💬 Ask me about **React, Node.Js and SQL**
 
